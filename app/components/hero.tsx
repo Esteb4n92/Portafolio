@@ -46,7 +46,7 @@ export default function Hero({ language }: HeroProps) {
           </h1>
           <p className="text-xl text-gray-300 mb-8">{t("hero.role")}</p>
           <a
-  href="/EstebanVillalobos_CV.pdf" // Ruta correcta al archivo
+  href="/cv/HDV-Esteban-Estudiante.pdf" // Ruta correcta al archivo
   download
   className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold py-2 px-4 rounded-md transition-all"
 >
