@@ -9,7 +9,7 @@ export const translations = {
     hero: {
       greeting: "Hola, soy",
       name: "Esteban Villalobos",
-      role: "Estudiante con enfoques al Desarrollo Web & Analisis de Datos",
+      role: "Desarrollador Web & Analisista de Datos",
       downloadCV: "Descargar CV",
       profileAlt: "Foto de perfil",
     },
